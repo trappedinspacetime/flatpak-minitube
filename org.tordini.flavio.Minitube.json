@@ -132,7 +132,7 @@
         "config-opts": [
             "LIBS += -L/app/lib -lmpv",
             "CONFIG += release",
-            "DEFINES += APP_GOOGLE_API_KEY=AIzaSyAyTdYPI-xHdBFeKx7eFyHFlR7dhuph9jY"
+            "DEFINES += APP_GOOGLE_API_KEY=YOUR_API_KEY"
         ],
         "sources": [
             {
